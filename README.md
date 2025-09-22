@@ -1,5 +1,8 @@
 Projeto Podcast IA - Episódios 
 
+
+![ab8556ec-d96e-4679-a0e8-63a042276731](https://github.com/user-attachments/assets/8da9ef6e-2fcd-4037-88f0-6e2ef9accbf3)
+
 Este projeto contém um podcast inteiramente criado com inteligência artificial, utilizando diversas ferramentas para roteirização e narração. 
 
 Ferramentas Utilizadas 
